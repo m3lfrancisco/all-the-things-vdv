@@ -4,6 +4,10 @@
 
 ### GET NUTSO, GET WILD
 
+<p align="right">
+<img src="https://www.rd.com/wp-content/uploads/2021/03/GettyImages-1133605325-scaled-e1617227898456.jpg?resize=1536,1023" width="100" height="100" border="10"/>
+</p>
+
 Each member of your team should add the following items to this project, following the GitHub Group Workflow Document:
 
 1. A piece of state in `App.js`. For example:
